@@ -1,46 +1,34 @@
-# Controlled AI Core™ — Changelog
+# Changelog
 
-All notable changes to this standard are documented in this file.
+All notable changes to the Controlled AI Core™ (CAIC) standard
+are documented in this file.
+
+This project follows the versioning policy defined in VERSIONING.md.
 
 ---
 
-## v1.2 — Enterprise Hardened Release (STABLE)
+## [v1.2.0] — Initial Public Release
 
-### Status
-- Stable
-- Enterprise-ready
-- Intended for high-risk and regulated environments
+### Added
+- Core governance specification (A1).
+- Autonomy level mapping and control model (A2).
+- Policy and behavior template framework (A3).
+- Canonical test and audit scenarios (A4).
+- Organizational governance and accountability model (A13).
+- Incident response and kill-switch governance (A14).
+- Reference architecture aligned with the Core standard.
+- Legal and adoption guidance documentation.
 
-### Key Changes
-- Formalization of Controlled AI Core™ as a governance-first standard
-- Alignment with enterprise risk, compliance, and accountability requirements
-- Finalized autonomy level definitions with clear responsibility boundaries
-- Introduction of structured governance and ownership roles
-- Separation of normative requirements from implementation guidance
-- Auditability and compliance interpretation stabilized
+### Legal & Governance
+- Non-commercial license established.
+- Trademark usage and attribution rules defined.
+- Public versioning and changelog policies introduced.
 
 ### Notes
-- No breaking changes for v1.x compliant implementations
-- Normative components are frozen under v1.2
-- Future updates will be backward-compatible within v1.x
-
----
-
-## v1.1 — Structured Core
-
-### Key Changes
-- Initial structuring of core concepts
-- Early autonomy mapping
-- Preliminary compliance considerations
-
----
-
-## v1.0 — Initial Concept
-
-### Key Changes
-- Foundational ideas and terminology
-- Conceptual framing of Controlled AI systems
-- Early problem definition and scope
+- This release represents the first public, non-commercial publication
+  of the Controlled AI Core™ standard.
+- No certification, compliance guarantees, or domain-specific claims
+  are provided or implied.
 
 ---
 
