@@ -1,85 +1,57 @@
-# Controlled AI Core™ — Versioning Policy
+# Versioning Policy
 
-## Overview
+Controlled AI Core™ (CAIC) follows a transparent and conservative versioning model
+designed for governance standards rather than software products.
 
-This repository follows a strict and transparent versioning policy to ensure
-stability, auditability, and enterprise trust for high-risk and regulated AI systems.
-
-Controlled AI Core™ is treated as a **standard**, not as an experimental framework.
-
----
-
-## Versioning Scheme
+## Version Format
 
 Versions follow the format:
 
-MAJOR.MINOR (e.g. v1.2)
+MAJOR.MINOR.PATCH
 
-### MAJOR version (v2.0, v3.0, ...)
-A MAJOR version change indicates:
-- Changes to core requirements or guarantees
-- Changes in autonomy definitions or responsibility boundaries
-- Breaking changes affecting compliance or audit interpretation
-- Structural changes to the standard itself
+Example: v1.2.0
 
-MAJOR upgrades require explicit migration guidance.
+## Version Meaning
 
----
+### MAJOR
+Incremented when:
+- the core governance model changes,
+- compliance logic is altered,
+- backward compatibility is broken.
 
-### MINOR version (v1.1 → v1.2)
-A MINOR version change indicates:
-- Clarification of existing requirements
-- Enterprise hardening and alignment
-- Additional governance, compliance, or documentation layers
-- No breaking changes to previously compliant implementations
+Such changes are rare and intentional.
 
-Backward compatibility is guaranteed within the same MAJOR version.
+### MINOR
+Incremented when:
+- new documents are added,
+- existing documents are expanded or clarified,
+- governance mechanisms are extended without breaking compatibility.
 
----
+### PATCH
+Incremented when:
+- editorial fixes are made,
+- clarifications are added,
+- formatting or wording is improved without changing meaning.
 
-## Frozen Components (Normative)
+## Stability Guarantees
 
-The following components are considered **normative and frozen** within a MAJOR version:
+- Published versions are immutable.
+- No retroactive changes are made to released versions.
+- Clarifications are introduced only via new versions.
 
-- Core Specification
-- Autonomy Level Mapping Guide
-- Policy & Behavior Templates
-- Test Scenarios & Provocation Sets
-- Compliance & Audit Framework
-- Governance & Accountability Specifications
+## Drafts and Future Versions
 
-Changes to these components require a MAJOR version increment.
+Drafts, ideas, and potential extensions are documented separately and
+do not affect compliance with the current version unless explicitly stated.
 
----
+## Non-Software Notice
 
-## Extensible Components (Informative)
-
-The following components may evolve without changing the MAJOR or MINOR version:
-
-- Technical Implementation Guide
-- Reference Architecture
-- Adoption & Migration Framework
-- Legal & Compliance Examples
-- Reference Implementations
-
-These components provide guidance but do not alter compliance requirements.
+Controlled AI Core™ is a governance and control standard, not executable software.
+Semantic versioning is used as a communication and stability mechanism only.
 
 ---
 
-## Change Control
-
-- All changes must be documented
-- No silent or undocumented changes are permitted
-- All version updates must be reflected in CHANGELOG.md
-
----
-
-## Stability Commitment
-
-Once a version is marked **STABLE**, its normative requirements will not change
-until the next MAJOR release.
-
----
+Document numbering is non-sequential by design to ensure long-term stability, extensibility, and legal referential integrity.
 
 © Controlled AI Core™  
 All rights reserved.
