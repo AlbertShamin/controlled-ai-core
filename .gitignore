@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Exported artifacts
+*.pdf
+*.docx
+*.zip
+
+# Private notes
+/private/
