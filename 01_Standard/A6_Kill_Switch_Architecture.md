@@ -1,6 +1,6 @@
-# A14 — Incident Response & Kill-Switch Governance
+# A6 — Kill-Switch Architecture
 
-**Part of:** Controlled AI Core™ (CAIC)  
+**Part of:** Controlled AI Core™ (CAIC Standart™)  
 **Version:** 2.2  
 **Status:** Normative  
 **Year:** 2026  
