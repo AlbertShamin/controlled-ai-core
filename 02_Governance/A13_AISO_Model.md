@@ -1,7 +1,7 @@
 # A13 — AI System Owner (AISO) Model
 
 **Part of:** Controlled AI Core™ (CAIC)  
-**Version:** 1.2  
+**Version:** 2.2  
 **Status:** Normative  
 **Year:** 2026  
 **Author:** Albert Shamin  
