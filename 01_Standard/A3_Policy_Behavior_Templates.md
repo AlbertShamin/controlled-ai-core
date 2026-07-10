@@ -1,6 +1,6 @@
 # A3 — Policy & Behavior Templates
 
-**Part of:** Controlled AI Core™ (CAIC)  
+**Part of:** Controlled AI Core™ (CAIC Standart™)  
 **Version:** 1.2  
 **Status:** Normative  
 **Year:** 2026  
