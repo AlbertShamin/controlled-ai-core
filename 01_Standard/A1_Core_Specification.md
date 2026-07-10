@@ -1,7 +1,7 @@
 # A1 – Core Specification
 
-**Part of:** Controlled AI Core™ (CAIC)  
-**Version:** 1.2  
+**Part of:** Controlled AI Core™ (CAIC Standart™)  
+**Version:** 2.2  
 **Status:** Normative  
 **Year:** 2026  
 **Author:** Albert Shamin  
