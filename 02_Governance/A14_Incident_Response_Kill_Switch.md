@@ -1,7 +1,7 @@
 # A14 — Incident Response & Kill-Switch Governance
 
 **Part of:** Controlled AI Core™ (CAIC)  
-**Version:** 1.2  
+**Version:** 2.2  
 **Status:** Normative  
 **Year:** 2026  
 **Author:** Albert Shamin  
